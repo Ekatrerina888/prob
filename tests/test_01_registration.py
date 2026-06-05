@@ -5,7 +5,6 @@ from data import Person, RandomData
 from urls import Urls
 
 
-
 class TestRegistrationPage:
     
     # Проверка регистрации пользователя

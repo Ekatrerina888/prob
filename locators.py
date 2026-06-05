@@ -15,6 +15,7 @@ class MainPageLocators:
     toppings = (By.XPATH, ".//h2[text() = 'Начинки']") # Текст Начинки на главной странице
 
 
+
 # Форма авторизации
 class AuthPageLocators:
     email_input = (By.XPATH, ".//input[@name = 'name']") # Поле ввода email

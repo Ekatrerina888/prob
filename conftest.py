@@ -14,7 +14,6 @@ def driver():
     driver.quit()
 
 
-
 @pytest.fixture
 def create_user(driver):
     name = 'Екатерина'

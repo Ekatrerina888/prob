@@ -4,6 +4,7 @@ from locators import MainPageLocators, AuthPageLocators, RegistrationPageLocator
 from urls import Urls
 
 
+
 class TestLoginPage:
 
     #Вход в личный кабинет через кнопку 'Войти в аккаунт' на главной странице

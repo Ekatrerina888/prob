@@ -4,3 +4,4 @@ class Urls:
     REGISTRATION_PAGE_URL = 'https://stellarburgers.education-services.ru/register' # URL страницы регистрации
     RECOVER_PAGE_URL = 'https://stellarburgers.education-services.ru/forgot-password' # URL страницы восстановления пароля
     PROFILE_PAGE_URL = 'https://stellarburgers.education-services.ru/account/profile' # URL страницы личного кабинета
+    

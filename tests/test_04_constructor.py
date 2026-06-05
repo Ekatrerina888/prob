@@ -4,6 +4,7 @@ from locators import MainPageLocators
 from urls import Urls
 
 
+
 class TestConstructorPage:
 
     # Проверка перехода к разделу 'Булки'

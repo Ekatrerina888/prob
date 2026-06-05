@@ -33,6 +33,7 @@ class TestPersonalArea:
         assert driver.find_element(*MainPageLocators.place_order_button).is_displayed()
 
 
+
     # Проверка перехода из личного кабинета в конструктор по клику на 'Логотип Stellar Burger'
     def test_open_constructor_from_personal_account_by_logo_success(self, get_login_driver):
         driver = get_login_driver
